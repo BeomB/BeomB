@@ -28,16 +28,24 @@ Email : sevenbumki@gmail.com
 
 ## Project, Prize
 
-전주 라이프 업 (전주시 공공데이터 공모전 우수상 수상)
+#### 전주 라이프 업 (전주시 공공데이터 공모전 우수상 수상)</br></br>
 
-<img src="" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="전주 라이프 업" align="center"></img>
-</p><br/><br/>
+<img src="https://play-lh.googleusercontent.com/rjzg8U6-ZExZDYCNHV8or_afFelgo4bYTswwHq236xN3H3P8djFpfDcseI4AYx1UIA=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="전주 라이프 업" align="center"></img>
+</p>
 
+[전주라이프업 구글 플레이스토어](https://play.google.com/store/apps/details?id=com.jeonjulife.jeonjulifeup)
 
+[전주라이프업 포토폴리오](https://drive.google.com/file/d/1pUDFJx8aye0Y8v6Ydrlwg_LEVrKQtiZ-/view?usp=sharing)<hr/>
 
-[구글 플레이스토어 링크](https://velog.io/)
+#### 내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위)</br></br>
 
-[포토폴리오 링크](https://play.google.com/store/apps/details?id=com.jeonjulife.jeonjulifeup)
+<img src="https://play-lh.googleusercontent.com/rjzg8U6-ZExZDYCNHV8or_afFelgo4bYTswwHq236xN3H3P8djFpfDcseI4AYx1UIA=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
+</p>
+
+[내미게이션 영상](https://youtu.be/4XMnau_PSn0)
+
+[내미게이션 포토폴리오](https://drive.google.com/file/d/1K3RL_HeT-AJEmYZIaCQOy6JvhRrSk-r6/view?usp=sharing)
+
 
 
 
