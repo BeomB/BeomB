@@ -37,11 +37,15 @@ Email : sevenbumki@gmail.com
 
 [전주라이프업 포토폴리오](https://drive.google.com/file/d/1pUDFJx8aye0Y8v6Ydrlwg_LEVrKQtiZ-/view?usp=sharing)
 
-• SQLite를 이용한 DB연동 기능 구현
-• 게시판 기능, Web View 연결,Google Map 연동, 위치 정보
-제공 기능 구현
-•공공데이터 DB 수집 및 가공
-•Google PlayStore을 이용한 어플리케이션 배포
+[전주라이프업 GitHub](https://github.com/beombeom1119/JeonJuLifeUp)
+
+##### • SQLite를 이용한 DB연동 기능 구현
+
+##### • 게시판 기능, Web View 연결,Google Map 연동, 위치 정보제공 기능 구현
+
+##### •공공데이터 DB 수집 및 가공
+
+##### •Google PlayStore을 이용한 어플리케이션 배포
 
 
 
@@ -57,14 +61,22 @@ Email : sevenbumki@gmail.com
 
 [내미게이션 포토폴리오](https://drive.google.com/file/d/1K3RL_HeT-AJEmYZIaCQOy6JvhRrSk-r6/view?usp=sharing)
 
-• React를 이용한 웹 페이지 개발
-• AWS를 이용한 서버이용, 프로젝트 배포
-• QR코드 로그인 구현
-• Teachable Machine 이용한 머신러닝 개발
+[내미게이션 GitHub](https://github.com/beombeom1119/Namigation/tree/WEB)
+
+##### • React를 이용한 웹 페이지 개발
+
+##### • AWS를 이용한 서버이용, 프로젝트 배포
+
+##### • QR코드 로그인 구현
+
+##### • Teachable Machine 이용한 머신러닝 개발
 
 </hr>
 
+
 #### SoiderLifeUp </br></br>
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
 
 
 
