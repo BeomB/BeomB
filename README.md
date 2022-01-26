@@ -13,7 +13,10 @@ Email : sevenbumki@gmail.com
 
 ## Education
 
-* 2016~2021 성결대학교 
+* 2016~2021 성결대학교 컴퓨터공학과
+ ###### ㅤㅤㅤ- 2016 컴퓨터 공학부 1학년 과대표
+ ###### ㅤㅤㅤ- 2020 컴퓨터 공학부 4학년 과대표
+
 
 * 2013~2015 인천 송천고등학교 <br/><br/>
 
@@ -54,8 +57,7 @@ Email : sevenbumki@gmail.com
 
 #### 내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위)</br></br>
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
-</p>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
 
 [내미게이션 영상](https://youtu.be/4XMnau_PSn0)
 
@@ -74,9 +76,26 @@ Email : sevenbumki@gmail.com
 <hr/>
 
 
-#### SoiderLifeUp </br></br>
+#### 솔저 라이프 업 </br></br>
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
+<img src="https://play-lh.googleusercontent.com/1cZTSvpPwioTzEriGpqJy7svn_DcaLefL_1CxRv9b20rM491ehuTshUe8-knY3J9jNc=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="솔저라이프업" align="center"></img>
+
+
+[솔저라이프업 구글 플레이스토어](https://play.google.com/store/apps/details?id=com.soldier.soldierlifeup)
+
+[솔저라이프업 GitHub](https://github.com/beombeom1119/SoldierLifeUp)
+
+
+#### • SQLite를 이용한 DB연동 기능 구현
+
+##### • Web View 연결,Google Map 연동, 위치 정보제공 기능 구현
+
+##### • 공공데이터 DB 수집 및 가공
+
+##### •Google PlayStore을 이용한 어플리케이션 배포
+
+
+
 
 
 
