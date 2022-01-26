@@ -35,16 +35,36 @@ Email : sevenbumki@gmail.com
 
 [전주라이프업 구글 플레이스토어](https://play.google.com/store/apps/details?id=com.jeonjulife.jeonjulifeup)
 
-[전주라이프업 포토폴리오](https://drive.google.com/file/d/1pUDFJx8aye0Y8v6Ydrlwg_LEVrKQtiZ-/view?usp=sharing)<hr/>
+[전주라이프업 포토폴리오](https://drive.google.com/file/d/1pUDFJx8aye0Y8v6Ydrlwg_LEVrKQtiZ-/view?usp=sharing)
+
+• SQLite를 이용한 DB연동 기능 구현
+• 게시판 기능, Web View 연결,Google Map 연동, 위치 정보
+제공 기능 구현
+•공공데이터 DB 수집 및 가공
+•Google PlayStore을 이용한 어플리케이션 배포
+
+
+
+<hr/>
+
 
 #### 내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위)</br></br>
 
-<img src="https://play-lh.googleusercontent.com/rjzg8U6-ZExZDYCNHV8or_afFelgo4bYTswwHq236xN3H3P8djFpfDcseI4AYx1UIA=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
 </p>
 
 [내미게이션 영상](https://youtu.be/4XMnau_PSn0)
 
 [내미게이션 포토폴리오](https://drive.google.com/file/d/1K3RL_HeT-AJEmYZIaCQOy6JvhRrSk-r6/view?usp=sharing)
+
+• React를 이용한 웹 페이지 개발
+• AWS를 이용한 서버이용, 프로젝트 배포
+• QR코드 로그인 구현
+• Teachable Machine 이용한 머신러닝 개발
+
+</hr>
+
+#### SoiderLifeUp </br></br>
 
 
 
