@@ -71,7 +71,7 @@ Email : sevenbumki@gmail.com
 
 ##### • Teachable Machine 이용한 머신러닝 개발
 
-</hr>
+<hr/>
 
 
 #### SoiderLifeUp </br></br>
