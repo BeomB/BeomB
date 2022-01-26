@@ -94,6 +94,7 @@ Email : sevenbumki@gmail.com
 
 ##### •Google PlayStore을 이용한 어플리케이션 배포
 
+<hr/>
 
 #### 메이저타임 </br></br>
 
