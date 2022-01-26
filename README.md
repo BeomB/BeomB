@@ -86,13 +86,30 @@ Email : sevenbumki@gmail.com
 [솔저라이프업 GitHub](https://github.com/beombeom1119/SoldierLifeUp)
 
 
-#### • SQLite를 이용한 DB연동 기능 구현
+##### • SQLite를 이용한 DB연동 기능 구현
 
 ##### • Web View 연결,Google Map 연동, 위치 정보제공 기능 구현
 
 ##### • 공공데이터 DB 수집 및 가공
 
 ##### •Google PlayStore을 이용한 어플리케이션 배포
+
+
+#### 메이저타임 </br></br>
+
+<img src="https://lh3.googleusercontent.com/MtvTLSmRKL1hU5eMvXZKacOLfLX8EbvTjbUlIZS7yikwd_rGKG4mV6oOZjALMtHlpPCVGsipnArq5FguGVfp0p4Vzundx9dFS-h4rEO3CGmc103FYIud4kSz9y16WC0osWgdjPr65aSzMmaeM68k6jVw-JTAukgmLlDqtsJsNcNTouxDoWzk1AaQ8gTGmvZTt6V9gR9jphaABuHDYuWNVpQk03HCiiUcZzZO0zBycjGRxY-PyImuJbDh8s5ufGQi-7wmFJ3KQSQgaKz864piQcXBE6ov-G-iywhmE1MBklvem5RI5--ld6jYPiWnjAWqxXFaRu8TS73W2i0GFxe57hLVuoOzP7fztL52MoVJW96ECoU_YZ77WYy2NKlKg4z9w2BlsZO5kdHT9hhcl32280OSMQOlgULFxmOIqfG5ztVf0Z6ofXAENyzVRCa1LnofjrSthLvS5jDF1lvMEFDzJUaM1AUPczZw9BwXGHjvEKXRG7uNfOZB4jXOwLDyA55OrhCs4tWVNFUoIm3y809jiwe8a_PGdgozIGXFeOf9ycb5pvN540Ci_CCCHua_8qKqRmdX5wfxT4RN0gd6apNMv9SWxnlgINt-6ZqM59Zo89ZwgvHEkTNnmjx24xSyOzVjMrF53ya4TdcZVo3WHL9XzdVpCbUXE51pRRllWTwFG4_ChS0uUGoYJLRKZP6OJyBQuyJqurQi0rjwHl7FIbck7Q=w299-h476-no?authuser=0" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
+
+
+[메이저타임 GitHub](https://play.google.com/store/apps/details?id=com.soldier.soldierlifeup)
+
+[메이저타임 포토폴리오](https://drive.google.com/file/d/11NtuYPdBbkBO57612u-jf9llCnOIFOZn/view?usp=sharing)
+
+
+##### • SQLite를 이용한 DB연동 기능 구현
+##### • 게시판 기능, 항목 검색, Web View 연결,Google Map 연동,
+학점 계산기, 오답노트 기능 구현
+
+
 
 
 
