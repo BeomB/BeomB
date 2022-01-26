@@ -106,8 +106,7 @@ Email : sevenbumki@gmail.com
 
 
 ##### • SQLite를 이용한 DB연동 기능 구현
-##### • 게시판 기능, 항목 검색, Web View 연결,Google Map 연동,
-학점 계산기, 오답노트 기능 구현
+##### • 게시판 기능, 항목 검색, Web View 연결,Google Map 연동, 학점 계산기, 오답노트 기능 구현
 
 
 
