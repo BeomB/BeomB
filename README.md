@@ -31,7 +31,7 @@ Email : sevenbumki@gmail.com
 
 ## Project, Prize
 
-#### 전주 라이프 업 (전주시 공공데이터 공모전 우수상 수상)</br></br>
+### **전주 라이프 업 (전주시 공공데이터 공모전 우수상 수상)**</br></br>
 
 <img src="https://play-lh.googleusercontent.com/rjzg8U6-ZExZDYCNHV8or_afFelgo4bYTswwHq236xN3H3P8djFpfDcseI4AYx1UIA=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="전주 라이프 업" align="center"></img>
 </p>
@@ -55,7 +55,7 @@ Email : sevenbumki@gmail.com
 <hr/>
 
 
-#### 내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위)</br></br>
+### **내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위)**</br></br>
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
 
@@ -76,7 +76,7 @@ Email : sevenbumki@gmail.com
 <hr/>
 
 
-#### 솔저 라이프 업 </br></br>
+### **솔저 라이프 업** </br></br>
 
 <img src="https://play-lh.googleusercontent.com/1cZTSvpPwioTzEriGpqJy7svn_DcaLefL_1CxRv9b20rM491ehuTshUe8-knY3J9jNc=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="솔저라이프업" align="center"></img>
 
@@ -96,7 +96,7 @@ Email : sevenbumki@gmail.com
 
 <hr/>
 
-#### 메이저타임 </br></br>
+### **메이저타임** </br></br>
 
 <img src="https://lh3.googleusercontent.com/MtvTLSmRKL1hU5eMvXZKacOLfLX8EbvTjbUlIZS7yikwd_rGKG4mV6oOZjALMtHlpPCVGsipnArq5FguGVfp0p4Vzundx9dFS-h4rEO3CGmc103FYIud4kSz9y16WC0osWgdjPr65aSzMmaeM68k6jVw-JTAukgmLlDqtsJsNcNTouxDoWzk1AaQ8gTGmvZTt6V9gR9jphaABuHDYuWNVpQk03HCiiUcZzZO0zBycjGRxY-PyImuJbDh8s5ufGQi-7wmFJ3KQSQgaKz864piQcXBE6ov-G-iywhmE1MBklvem5RI5--ld6jYPiWnjAWqxXFaRu8TS73W2i0GFxe57hLVuoOzP7fztL52MoVJW96ECoU_YZ77WYy2NKlKg4z9w2BlsZO5kdHT9hhcl32280OSMQOlgULFxmOIqfG5ztVf0Z6ofXAENyzVRCa1LnofjrSthLvS5jDF1lvMEFDzJUaM1AUPczZw9BwXGHjvEKXRG7uNfOZB4jXOwLDyA55OrhCs4tWVNFUoIm3y809jiwe8a_PGdgozIGXFeOf9ycb5pvN540Ci_CCCHua_8qKqRmdX5wfxT4RN0gd6apNMv9SWxnlgINt-6ZqM59Zo89ZwgvHEkTNnmjx24xSyOzVjMrF53ya4TdcZVo3WHL9XzdVpCbUXE51pRRllWTwFG4_ChS0uUGoYJLRKZP6OJyBQuyJqurQi0rjwHl7FIbck7Q=w299-h476-no?authuser=0" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
 
