@@ -21,8 +21,13 @@ Email : sevenbumki@gmail.com
 ## Certificate
 
 * 정보처리기사 / 한국산업인력공단
+
 * professional Coding Specialist 2급 python / YBMIT
+
 * Coding Specialist 2급 Intermediate Scratch / YBMIT
+
+## Project, Prize
+
 
 
 
