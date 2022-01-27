@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center" style="..."> 
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLVM6dYT56CbTFrpP3_aEir7lQJ4m7m5nL3_gVQ1hAoOzmYlcsIvoo-8aE5orvrGEuQtpON5EH9lY7EPoq6ZCftiLZZCG2OC2uIyAN_yXbUnANrTBhzeqDUXEJd36Qj0rzgXKiPneZahgSKTWyh-ZyY=w913-h891-no?authuser=0" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/me.jpg?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
 </p>
 <br/><br/>
 
@@ -108,7 +108,7 @@ Email : sevenbumki@gmail.com
 
 ### **메이저타임** </br></br>
 
-<img src="https://lh3.googleusercontent.com/RJEUp9xzZVIzvgXKizQFsmK43qB-VaGdvi1wLbZOUGf78yCTNBydxo_QcrTCuXSo1-R_PseEPRBAQRMv-ZnqAW4Q4yTyDpjPkjnft6Fvskzj3cRYASZsm8qiE4PbkJ7-6B-A1wvW_BWkflfM8v3VgjliiZjAUU6PD6hbyf1IaG84fDFdqQQu1hFEneZAZdFsk0UXztircpImD5RafD4PZJIEwh8pN5nx3ZYGl7gXjDrSwgZvaWIq9g-a0UcSCFIP5fZ9ystkD_1eamXSBiaZ29l4U7F4n-zBl4yYijsf_u_wKcIO1Kn9Qj6Kr6wHZfB8lQEyZ_JyFNobbCFS-XkQMzzS5LHk01hE_vDXjP4DvLnkSAGcFMjFQprjJK1k_2-_aOpX97ZNjQF1m1g6Kpg3EXXMzDj3BzBoiWa-u0O9Tu4FBT9_Ex0oMhKUGhMU5Vte-O-H2no4PaIprilIP4GlzBaKJOn0O03F1pw-0mpiIPNYTxnVC_iIllYtqpdkufnhHhQVFuhcQHp5g30zsbWKI0z13PgYnFeyCdNYhxeEU4u-7xodrl3f01pNhmJEKgwyW0rujdnEgF_bSggLgfwMC207wwjQnD863lg7qa1c9EV_lhPiSpucstMSiQuI3BArT5dFpKMk6J6gXK4ve4etQlPa7CHz6eow4hIIoqJdv_qAfh1oUsky6dik_8mYVWSWfA59EntVK9ubLgyLsUDimDo=w299-h476-no?authuser=0" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/Major.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
 
 
 [메이저타임 GitHub](https://play.google.com/store/apps/details?id=com.soldier.soldierlifeup)
