@@ -25,7 +25,7 @@ Email : sevenbumki@gmail.com
 
 * 2016~2021 성결대학교 컴퓨터공학과
  ###### ㅤㅤㅤ- 2016 컴퓨터 공학부 1학년 과대표
- ###### ㅤㅤㅤ- 2020 컴퓨터 공학부 4학년 과대표
+ ###### ㅤㅤㅤ- 2021 컴퓨터 공학부 4학년 과대표
 
 
 * 2013~2015 인천 송천고등학교 <br/><br/>
@@ -123,9 +123,13 @@ Email : sevenbumki@gmail.com
 
 
 
+## 교내수상
 
+<br/><br/>
 
-
+<p align="center" style="..."> 
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/%E1%84%80%E1%85%AD%E1%84%82%E1%85%A2%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.png?raw=true" width="90%" height="80%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+</p>
 
 
 
