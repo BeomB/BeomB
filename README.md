@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center" style="..."> 
-<img src="https://lh3.googleusercontent.com/dWL_rhC6yWgKFf_L4n5OXn8Q4Q9BOsebd2CmB8H6A68DXIXubY72xagtpsowC1HOLxKdjOmz3KH6G7FRReVgH6SC-kkv_iPLBtNNsu2V3QgOgE08XcJbHX4XUTcue7c0PFeELgQjhBF3ATt0mIXv0HuWU3HRxvkfQjx4QpVf916URP_-Un6gpD3U4RapjlhYdw-Xmv3OowA7GLOBB42J54K15M6Jd4F6Q-jtzYw-Kzvgqmw-VKZqucTIZreTF5O8JqbOtVNv1ztU-k988g2DmmKnbmkvH4LAvuna-Cm0Zx-23xQTqIjsSyPM0DKNYmPIC0WR8qrG4fAagp0_DUidU68Zt6Qa0MnrjY03QGfuVRCNrtXuORQ7VwRRBWPntlQFProcXws_fumSj77-TARurhKscJg2ifkXbzysb_1wNUjUs-Sdde3CuCOzI4FpmggLRVZywjN_BFwF6FZvnIQPNoRI4fLfudT5-TjeEQ_wBpK2XV4ICekGm2vsOmoo65NrlLL6Mjmrbw2hezPtG2GIclmGUisP0Q9fKGrYLD3QHnOTvD_4FBiCumuWicBg7QR99HsXBwt5isbYvqeqkUvz-PkaGCAUILMQ6TvbuhEUlxcEWdv6g8K1wi2nWrPZVjO92UqTlDLu_y2VvRIBczX-70_d3KXc1v23R4hmlPsenwUjT-SVBsYP0KJyaQ-XzngKZA0VGjYuHyp6OJ_XwVlSYg=w892-h870-no?authuser=0" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVM6dYT56CbTFrpP3_aEir7lQJ4m7m5nL3_gVQ1hAoOzmYlcsIvoo-8aE5orvrGEuQtpON5EH9lY7EPoq6ZCftiLZZCG2OC2uIyAN_yXbUnANrTBhzeqDUXEJd36Qj0rzgXKiPneZahgSKTWyh-ZyY=w913-h891-no?authuser=0" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
 </p>
 <br/><br/>
 
@@ -108,7 +108,7 @@ Email : sevenbumki@gmail.com
 
 ### **메이저타임** </br></br>
 
-<img src="https://lh3.googleusercontent.com/MtvTLSmRKL1hU5eMvXZKacOLfLX8EbvTjbUlIZS7yikwd_rGKG4mV6oOZjALMtHlpPCVGsipnArq5FguGVfp0p4Vzundx9dFS-h4rEO3CGmc103FYIud4kSz9y16WC0osWgdjPr65aSzMmaeM68k6jVw-JTAukgmLlDqtsJsNcNTouxDoWzk1AaQ8gTGmvZTt6V9gR9jphaABuHDYuWNVpQk03HCiiUcZzZO0zBycjGRxY-PyImuJbDh8s5ufGQi-7wmFJ3KQSQgaKz864piQcXBE6ov-G-iywhmE1MBklvem5RI5--ld6jYPiWnjAWqxXFaRu8TS73W2i0GFxe57hLVuoOzP7fztL52MoVJW96ECoU_YZ77WYy2NKlKg4z9w2BlsZO5kdHT9hhcl32280OSMQOlgULFxmOIqfG5ztVf0Z6ofXAENyzVRCa1LnofjrSthLvS5jDF1lvMEFDzJUaM1AUPczZw9BwXGHjvEKXRG7uNfOZB4jXOwLDyA55OrhCs4tWVNFUoIm3y809jiwe8a_PGdgozIGXFeOf9ycb5pvN540Ci_CCCHua_8qKqRmdX5wfxT4RN0gd6apNMv9SWxnlgINt-6ZqM59Zo89ZwgvHEkTNnmjx24xSyOzVjMrF53ya4TdcZVo3WHL9XzdVpCbUXE51pRRllWTwFG4_ChS0uUGoYJLRKZP6OJyBQuyJqurQi0rjwHl7FIbck7Q=w299-h476-no?authuser=0" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
+<img src="https://lh3.googleusercontent.com/RJEUp9xzZVIzvgXKizQFsmK43qB-VaGdvi1wLbZOUGf78yCTNBydxo_QcrTCuXSo1-R_PseEPRBAQRMv-ZnqAW4Q4yTyDpjPkjnft6Fvskzj3cRYASZsm8qiE4PbkJ7-6B-A1wvW_BWkflfM8v3VgjliiZjAUU6PD6hbyf1IaG84fDFdqQQu1hFEneZAZdFsk0UXztircpImD5RafD4PZJIEwh8pN5nx3ZYGl7gXjDrSwgZvaWIq9g-a0UcSCFIP5fZ9ystkD_1eamXSBiaZ29l4U7F4n-zBl4yYijsf_u_wKcIO1Kn9Qj6Kr6wHZfB8lQEyZ_JyFNobbCFS-XkQMzzS5LHk01hE_vDXjP4DvLnkSAGcFMjFQprjJK1k_2-_aOpX97ZNjQF1m1g6Kpg3EXXMzDj3BzBoiWa-u0O9Tu4FBT9_Ex0oMhKUGhMU5Vte-O-H2no4PaIprilIP4GlzBaKJOn0O03F1pw-0mpiIPNYTxnVC_iIllYtqpdkufnhHhQVFuhcQHp5g30zsbWKI0z13PgYnFeyCdNYhxeEU4u-7xodrl3f01pNhmJEKgwyW0rujdnEgF_bSggLgfwMC207wwjQnD863lg7qa1c9EV_lhPiSpucstMSiQuI3BArT5dFpKMk6J6gXK4ve4etQlPa7CHz6eow4hIIoqJdv_qAfh1oUsky6dik_8mYVWSWfA59EntVK9ubLgyLsUDimDo=w299-h476-no?authuser=0" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
 
 
 [메이저타임 GitHub](https://play.google.com/store/apps/details?id=com.soldier.soldierlifeup)
