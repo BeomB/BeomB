@@ -124,7 +124,7 @@ Email : sevenbumki@gmail.com
 
 ### **Spring Boot 게시판** </br></br>
 
-<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/AWS_SPRING.png?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="Spring Boot" align="center"></img>
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/AWS_SPRING.png?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="Spring Boot" align="center"></img>
 
 
 [SpringBoot GitHub](https://github.com/beombeom1119/AWS_SPRING)
@@ -132,8 +132,11 @@ Email : sevenbumki@gmail.com
 
 
 
-##### • SQLite를 이용한 DB연동 기능 구현
-##### • 게시판 기능, 항목 검색, Web View 연결,Google Map 연동, 학점 계산기, 오답노트 기능 구현
+해당 강의 링크 : https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ
+
+해당 프로젝트 설명 링크 : https://baam-ki.tistory.com/25?category=929988
+
+
 
 
 <hr/>
