@@ -116,7 +116,7 @@ Email : sevenbumki@gmail.com
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/Major.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
 
 
-[메이저타임 GitHub](https://play.google.com/store/apps/details?id=com.soldier.soldierlifeup)
+[메이저타임 GitHub](https://github.com/beombeom1119/MajorTime)
 
 [메이저타임 포토폴리오](https://drive.google.com/file/d/11NtuYPdBbkBO57612u-jf9llCnOIFOZn/view?usp=sharing)
 
