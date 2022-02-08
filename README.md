@@ -154,7 +154,7 @@ Email : sevenbumki@gmail.com
 <br/>
 
 <p align="center" style="..."> 
-<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/%E1%84%80%E1%85%AD%E1%84%82%E1%85%A2%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.png?raw=true" width="90%" height="80%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/%E1%84%80%E1%85%AD%E1%84%82%E1%85%A2%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.png?raw=true" width="90%" height="80%" title="px(픽셀) 크기 설정" alt="교내 수상" align="center"></img>
 </p>
 
 
