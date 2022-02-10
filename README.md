@@ -111,7 +111,7 @@ Email : sevenbumki@gmail.com
 
 <hr/>
 
-### **메이저타임** </br></br>
+### **메이저타임 (내미게이션 (2020 성결대학교 컴퓨터공학과 설계경진대회 1위) )** </br></br>
 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/Major.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
 
