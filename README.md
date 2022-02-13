@@ -129,7 +129,7 @@ Email : sevenbumki@gmail.com
 
 ### **Spring Boot 게시판** </br></br>
 
-<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/AWS_SPRING.png?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="Spring Boot" align="center"></img>
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/AWS_SPRING.png?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="Spring Boot 게시판" align="center"></img>
 
 
 [SpringBoot GitHub](https://github.com/beombeom1119/AWS_SPRING)
