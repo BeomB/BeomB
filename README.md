@@ -10,11 +10,13 @@
 
 ### 스프링부트와 REACT를 공부 중인 97년생 이범기입니다.
 
+Notion : https://organic-twister-8a3.notion.site/090e3b21bcc34579b7f3f4a3f36e08d8
+
 Github : https://github.com/beombeom1119
 
 Email : sevenbumki@gmail.com
 
-blog : https://baam-ki.tistory.com/
+Blog : https://baam-ki.tistory.com/
 
 <br/>
 
