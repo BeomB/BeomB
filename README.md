@@ -100,7 +100,7 @@ Blog : https://baam-ki.tistory.com/
 
 [WhatBrand 영상](https://www.youtube.com/watch?v=ZwyrESE1lyQ)
 
-[내미게이션 GitHub](https://github.com/beombeom1119/GoogleMegazone)
+[WhatBrand GitHub](https://github.com/beombeom1119/GoogleMegazone)
 
 ##### • React를 이용한 웹 페이지 개발
 
