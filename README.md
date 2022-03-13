@@ -99,7 +99,7 @@ Blog : https://baam-ki.tistory.com/
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/whatbrand.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="whatBrand" align="center"></img>
 
 [WhatBrand 영상](https://www.youtube.com/watch?v=ZwyrESE1lyQ)
-
+[WhatBrand 블로그](https://baam-ki.tistory.com/66)
 [WhatBrand GitHub](https://github.com/beombeom1119/GoogleMegazone)
 
 ##### • React를 이용한 웹 페이지 개발
