@@ -94,7 +94,7 @@ Blog : https://baam-ki.tistory.com/
 
 <hr/>
 
-### **What Brand (Google Megazone 클라우드를 부탁해 출품 작)**</br></br>
+### **What Brand (Google Megazone "클라우드를 부탁해" 출품 작)**</br></br>
 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/whatbrand.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="whatBrand" align="center"></img>
 
