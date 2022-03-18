@@ -159,8 +159,6 @@ Blog : https://baam-ki.tistory.com/
 [SpringBoot GitHub](https://github.com/beombeom1119/AWS_SPRING)
 
 
-
-
 해당 강의 링크 : https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ
 
 해당 프로젝트 설명 링크 : https://baam-ki.tistory.com/25?category=929988
