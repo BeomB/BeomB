@@ -73,7 +73,7 @@ Blog : https://baam-ki.tistory.com/
 
 ### **KFA Player (React + SpringBoot)**</br></br>
 
-<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/kfa.png?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="KFA" align="center"></img>
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/kfa.png?raw=true" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="KFA" align="center"></img>
 
 ### 🔗Link
 
