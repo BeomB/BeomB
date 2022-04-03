@@ -71,7 +71,7 @@ Blog : https://baam-ki.tistory.com/
 
 -------------------------
 
-### **KFA Player (React + SpringBoot+)**</br></br>
+### **KFA Player (React + SpringBoot + Docker)**</br></br>
 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/kfa.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="KFA" align="center"></img>
 
@@ -86,16 +86,15 @@ Blog : https://baam-ki.tistory.com/
 React를 이용한 SPA 형식, SpringBoot Jpa를 이용한 DB 처리를 하였습니다.
 REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 
+이후 배포시에 EC2와 Docker를 이용하여, 프로젝트를 배포하였습니다.
+
 </aside>
 
 ## 📖 상세 내용
 
-   
+블로그 프로젝트 설명 : [https://baam-ki.tistory.com/69](https://baam-ki.tistory.com/69)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c879946-807f-46bd-9318-fd74107c7bc9/Untitled.png)
-
-블로그 설명 : [https://baam-ki.tistory.com/69](https://baam-ki.tistory.com/69)<br/>
-블로그 도커 배포 설명 : https://baam-ki.tistory.com/entry/React-Spring-Boot-AWS-도커-배포
+블로그 도커 배포 설명 : [https://baam-ki.tistory.com/entry/React-Spring-Boot-AWS-도커-배포](https://baam-ki.tistory.com/entry/React-Spring-Boot-AWS-%EB%8F%84%EC%BB%A4-%EB%B0%B0%ED%8F%AC)
 
 ## 📹 시연 영상
 
@@ -104,8 +103,8 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 ## 🛠️ 사용 기술 및 라이브러리
 
 - React, Java Script
-- Spring Boot, JPA , AWS RDS
-- Git
+- Spring Boot, JPA , AWS RDS ,AWS EC2
+- Docker, Git
 
 ## 🙋🏻‍♂️ 담당한 기능
 
@@ -113,12 +112,13 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 - SpringBoot를 이용한 BackEnd 개발
 - AWS RDS를 이용한 DB데이터 연동
 - JPA를 이용한 REST API
+- AWS EC2 ,Docker를 이용한 배포
 
 ## 💡 깨달은 점
 
 - React와 SpringBoot 사용법
 - JPA Object 형식과 @Query 형식 경험
-
+- Docker와 EC2 를 이용한 프로젝트 배포
 
 <hr/>
 
