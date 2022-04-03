@@ -71,7 +71,7 @@ Blog : https://baam-ki.tistory.com/
 
 -------------------------
 
-### **KFA Player (React + SpringBoot)**</br></br>
+### **KFA Player (React + SpringBoot+)**</br></br>
 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/kfa.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="KFA" align="center"></img>
 
@@ -94,7 +94,8 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c879946-807f-46bd-9318-fd74107c7bc9/Untitled.png)
 
-블로그 설명 : [https://baam-ki.tistory.com/69](https://baam-ki.tistory.com/69)
+블로그 설명 : [https://baam-ki.tistory.com/69](https://baam-ki.tistory.com/69)<br/>
+블로그 도커 배포 설명 : https://baam-ki.tistory.com/entry/React-Spring-Boot-AWS-도커-배포
 
 ## 📹 시연 영상
 
