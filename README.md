@@ -209,56 +209,122 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/whatbrand.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="whatBrand" align="center"></img>
 
-[WhatBrand 영상](https://www.youtube.com/watch?v=ZwyrESE1lyQ)
-[WhatBrand 블로그](https://baam-ki.tistory.com/66)
-[WhatBrand GitHub](https://github.com/beombeom1119/GoogleMegazone)
+### 🔗Link
 
-##### • React를 이용한 웹 페이지 개발
+**[Githu](https://github.com/beombeom1119/GoogleMegazone)b**
 
-##### • Netlify를 이용한 프로젝트 배포
+[GitHub - beombeom1119/GoogleMegazone](https://github.com/beombeom1119/GoogleMegazone)
 
-##### • Crawling을 통해 데이터셋 수집
+<aside>
+💡 Google Megazone “클라우드를 부탁해" 공모전 출품작 입니다. 구글 클라우드에서 제공하는 Google Map API 와 GCP를 활용하고, 웹 환경에서는 REACT와 Teachable Machine을 활용하여 사진 속 브랜드를 찾아주는 기능을 완성하였습니다. 해당 프로젝트의 백엔드는 node Js 버전과 Spring Boot 버전 두가지가 있습니다.
 
-##### • Teachable Machine 이용한 머신러닝 개발
+</aside>
 
-##### • MySQl을 이용한 DB 연동
+## 📖 상세 내용
+
+ [브랜드를 찾아줘 링크](https://what-brand.netlify.app/)
+
+[브랜드를 찾아줘 블로그](https://baam-ki.tistory.com/66)
+
+## 📹 시연 영상
+
+[브랜드를 찾아줘 시연 영상](https://www.youtube.com/watch?v=ZwyrESE1lyQ)
+
+[https://www.youtube.com/watch?v=ZwyrESE1lyQ](https://www.youtube.com/watch?v=ZwyrESE1lyQ)
+
+## 🛠️ 사용 기술 및 라이브러리
+
+- Node JS, React, Google Cloud, Java Script,Spring Boot
+- Teachable machine, Crawling, MySQL
+- Git
+
+## 🙋🏻‍♂️ 담당한 기능
+
+- React와 Node JS를 이용한 웹 페이지 개발
+- Node JS 코드 → Spring Boot로 변경 완료
+- Netlify를 이용한 배포
+- Teachable Machine 이용한 머신러닝 개발
+- Python Crawling 을 이용한 데이터 수집
+
+## 💡 깨달은 점
+
+- Google Map API 사용법
+- GCP 사용 방법
+- Node Js에서 SpringBoot로 바꾸면서 SpringBoot에 관한 이해
+- GoogleMegazone 후드티는 생각보다 마음에 들지 않다!
 
 <hr/>
 
 
 ### **솔저 라이프 업** </br></br>
 
-<img src="https://play-lh.googleusercontent.com/1cZTSvpPwioTzEriGpqJy7svn_DcaLefL_1CxRv9b20rM491ehuTshUe8-knY3J9jNc=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="솔저라이프업" align="center"></img>
+### 🔗Link
+
+**[Github](https://github.com/beombeom1119/SoldierLifeUp)**
+
+[GitHub - beombeom1119/SoldierLifeUp](https://github.com/beombeom1119/SoldierLifeUp)
+
+<aside>
+💡 국방부 공공데이터 공모전에 출품한 프로젝트입니다. Firebase를 이용하여 채팅 기능을 추가하였고, 국방부에서 제공하는 다양한 정보를 군인들이 확인 할 수 있도록 정보를 제공하는 역할을 하는 어플리케이션입니다.
+
+</aside>
+
+## 🛠️ 사용 기술 및 라이브러리
+
+- Android Studio, SQLite
+- Google Map Api , 공공 데이터
+
+## 🙋🏻‍♂️ 담당한 기능
+
+- Android를 활용한 화면 구성 및 기능 구현
+- SQLite를 이용한 내장 DB 연동
+- Google PlayStore을 이용한 어플리케이션 배포
+
+## 📹 시연 사진
+
+![https://image.winudf.com/v2/image1/Y29tLnNvbGRpZXIuc29sZGllcmxpZmV1cF9zY3JlZW5fMl8xNjIwNTgzMTQ0XzA0Nw/screen-2.jpg?h=355&fakeurl=1&type=.jpg](https://image.winudf.com/v2/image1/Y29tLnNvbGRpZXIuc29sZGllcmxpZmV1cF9zY3JlZW5fMl8xNjIwNTgzMTQ0XzA0Nw/screen-2.jpg?h=355&fakeurl=1&type=.jpg)
 
 
-[솔저라이프업 구글 플레이스토어](https://apkpure.com/%EC%86%94%EC%A0%B8-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%97%85/com.soldier.soldierlifeup)
+## 💡 깨달은 점
 
-[솔저라이프업 GitHub](https://github.com/beombeom1119/SoldierLifeUp)
-
-
-##### • SQLite를 이용한 DB연동 기능 구현
-
-##### • Web View 연결,Google Map 연동, 위치 정보제공 기능 구현
-
-##### • 공공데이터 DB 수집 및 가공
-
-##### • Google PlayStore을 이용한 어플리케이션 배포
-
+- FireBase 사용법
+- SQLite 내장 DB 사용법
+- Google Store를 이용한 어플리케이션 배포
+- 공공데이터 DB 수집 및 가공
 <hr/>
+
 
 ### **메이저타임 (내미게이션 (2020 성결대학교 컴퓨터공학과 설계경진대회 1위) )** </br></br>
 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/Major.jpg?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="메이저타임" align="center"></img>
 
 
-[메이저타임 GitHub](https://github.com/beombeom1119/MajorTime)
+### 🔗Link
 
-[메이저타임 포토폴리오](https://drive.google.com/file/d/11NtuYPdBbkBO57612u-jf9llCnOIFOZn/view?usp=sharing)
+[**Github**](https://github.com/beombeom1119/JeonJuLifeUp)
 
+[GitHub - beombeom1119/MajorTime](https://github.com/beombeom1119/MajorTime)
 
-##### • SQLite를 이용한 DB연동 기능 구현
-##### • 게시판 기능, 항목 검색, Web View 연결,Google Map 연동, 학점 계산기, 오답노트 기능 구현
+<aside>
+💡 2020년 성결대학교 컴퓨터공하고가 설계 경진대회 1위를 수상한 메이저 타임 어플리케이션 프로젝트입니다. 내장 DB를 이용하여 게시판 기능을 완성하였고, Google Map API를 이용하여 학교 내 건물 위치를 제공해줍니다.
 
+</aside>
+
+## 📖 상세 내용
+
+   
+
+[메이저 타임 포트폴리오](https://drive.google.com/file/d/11NtuYPdBbkBO57612u-jf9llCnOIFOZn/view?usp=sharing)
+
+## 🛠️ 사용 기술 및 라이브러리
+
+- Android Studio, SQLite
+- Google Map Api , 공공 데이터
+
+## 🙋🏻‍♂️ 담당한 기능
+
+- 게시판 기능 Web View 연결Google Map 연동 위치 정보제공 기능 구현
+- SQLite를 이용한 내장 DB 연동
 
 <hr/>
 
@@ -267,13 +333,36 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/AWS_SPRING.png?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="Spring Boot 게시판" align="center"></img>
 
 
-[SpringBoot GitHub](https://github.com/beombeom1119/AWS_SPRING)
+### 🔗Link
+
+**[Github](https://github.com/beombeom1119/AWS_SPRING)**
+
+[GitHub - beombeom1119/AWS_SPRING](https://github.com/beombeom1119/AWS_SPRING)
+
+<aside>
+💡 Youtube 한코딩님의 강의를 보고 작성한 코드입니다.
+
+</aside>
+
+## 📖 상세 내용
+
+   
+
+[해당 프로젝트 설명 링크](https://baam-ki.tistory.com/25?category=929988)
+
+[아마존 서버 배포](https://baam-ki.tistory.com/category/IT/AWS)
 
 
-해당 강의 링크 : https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ
+## 🛠️ 사용 기술 및 라이브러리
 
-해당 프로젝트 설명 링크 : https://baam-ki.tistory.com/25?category=929988
+- Spring Boot, Java, Maria DB
+- Bootstrap, AWS EC2, Git
 
+## 💡 깨달은 점
+
+- Spring 기본 개념
+- Spring MVC 패턴
+- AWS EC2를 이용한 서버 배포
 
 
 
