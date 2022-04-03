@@ -76,9 +76,6 @@ Blog : https://baam-ki.tistory.com/
 
 ![https://image.winudf.com/v2/image1/Y29tLmplb24uamVvbmp1bGlmZXVwX3NjcmVlbl8wXzE2MDE2OTE5MTZfMDM0/screen-0.jpg?h=355&fakeurl=1&type=.jpg](https://image.winudf.com/v2/image1/Y29tLmplb24uamVvbmp1bGlmZXVwX3NjcmVlbl8wXzE2MDE2OTE5MTZfMDM0/screen-0.jpg?h=355&fakeurl=1&type=.jpg)
 
-![https://image.winudf.com/v2/image1/Y29tLmplb24uamVvbmp1bGlmZXVwX3NjcmVlbl8yXzE2MDE2OTE5MTdfMDI0/screen-2.jpg?h=355&fakeurl=1&type=.jpg](https://image.winudf.com/v2/image1/Y29tLmplb24uamVvbmp1bGlmZXVwX3NjcmVlbl8yXzE2MDE2OTE5MTdfMDI0/screen-2.jpg?h=355&fakeurl=1&type=.jpg)
-
-![https://image.winudf.com/v2/image1/Y29tLmplb24uamVvbmp1bGlmZXVwX3NjcmVlbl80XzE2MDE2OTE5MThfMDI1/screen-4.jpg?h=355&fakeurl=1&type=.jpg](https://image.winudf.com/v2/image1/Y29tLmplb24uamVvbmp1bGlmZXVwX3NjcmVlbl80XzE2MDE2OTE5MThfMDI1/screen-4.jpg?h=355&fakeurl=1&type=.jpg)
 
 ## 🛠️ 사용 기술 및 라이브러리
 
