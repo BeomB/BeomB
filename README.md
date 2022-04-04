@@ -4,6 +4,9 @@
 
 <p align="center" style="..."> 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/me.jpg?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+
+![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/beombeom1119](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/beombeom1119)
+
 </p>
 <br/><br/>
 
