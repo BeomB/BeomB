@@ -2,6 +2,11 @@
 
 ## INTRODUCE 
 
+<p align="center" style="..."> 
+<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/me.jpg?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+</p>
+<br/><br/>
+
 ## 🖥 **Backend Developer**
 
  **안녕하세요!  Java/Spring Backend Developer가 되고 싶은 이범기입니다!**
