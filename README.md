@@ -1,24 +1,57 @@
 
 
 ## INTRODUCE 
-<br/>
 
-<p align="center" style="..."> 
-<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/me.jpg?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
-</p>
-<br/><br/>
+## 🖥 **Backend Developer**
 
-### 스프링부트와 REACT를 공부 중인 97년생 이범기입니다.
+ **안녕하세요!  Java/Spring Backend Developer가 되고 싶은 이범기입니다!**
 
-Notion : https://organic-twister-8a3.notion.site/090e3b21bcc34579b7f3f4a3f36e08d8
+**Java/Spring 을 이용하여 사용자에게 Open API 를 제공하고 싶은 목표가 있는 신입 개발자입니다.**
 
-Github : https://github.com/beombeom1119
+**Spring Backend Developer를 목표로 꾸준히 공부중에 있습니다.**
 
-Email : sevenbumki@gmail.com
+- React, SpringBoot를 이용한 풀스택 개발이 가능합니다.
+- SpringBoot JPA를 이용한 REST API 개발 경험이 있습니다.
+- AWS, GCP와 같은 클라우드 서비스를 이용한 공모전 출품 경험이 있습니다.
+- 전주시 공공데이터 앱 공모전 우수상 수상 경력이 있습니다.
+- EC2, Docker를 이용하여 배포 경험이 있습니다.
 
-Blog : https://baam-ki.tistory.com/
- 
-<br/>
+## 🛠️ 기술 스택
+
+### 🔹 Java
+
+### 🔹 Spring / Spring boot
+
+### 🔹 React
+
+### 🔹 MySQL
+
+### 🔹 Docker
+
+### 🔸 Git
+
+### 🔸 Jira
+
+## 💡 자격 정보
+
+### 🔹 정보처리기사
+
+- 취득일자 : 2021.08.02
+- 발행기관 : 한국산업인력공단
+
+🔹  Professional Coding Specialist 2급 python / YBMIT
+
+🔹  Coding Specialist 2급 Intermediate Scratch / YBMIT
+
+## 👨🏻‍🎓 Education 학력
+
+### 🔹2016~2021 성결대학교 컴퓨터공학과
+
+ **총 평점 평균 : 3.97 , 전공 평점 평균 : 4.15**
+
+ **2016 컴퓨터 공학부 1학년 과대표 , 2021 컴퓨터 공학부 4학년 과대표**
+
+ **2020 컴퓨터 공학부 축구 소모임 C# 동아리 회장**
 
 ## GitHub
 
