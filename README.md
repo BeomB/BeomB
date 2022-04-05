@@ -1,9 +1,21 @@
 
 
 ## INTRODUCE 
+### 💡  오기와 끈기로 개발하자.
 
-<p align="center" style="..."> 
-<img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/me.jpg?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
+![https://github.com/beombeom1119/beombeom1119/raw/main/BEOM_IMG/me.jpg?raw=true](https://github.com/beombeom1119/beombeom1119/raw/main/BEOM_IMG/me.jpg?raw=true)
+
+📧 **Email**
+
+- qjarl1119@naver.com
+
+🐱 **Github**
+
+- [beombeom1119](https://github.com/beombeom1119)
+
+✏️ **Blog**
+
+- [https://baam-ki.tistory.com](https://baam-ki.tistory.com/)
  
 </p>
 <br/><br/>
