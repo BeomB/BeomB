@@ -390,6 +390,7 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 
 <aside>
 💡 Youtube 한코딩님의 강의를 보고 작성한 코드입니다.
+ JPA + 타임리프
 
 </aside>
 
