@@ -17,6 +17,11 @@
 ✏️ **Blog**
 
 - [https://baam-ki.tistory.com](https://baam-ki.tistory.com/)
+
+🧑🏻‍💻 **Notion**
+
+- [이범기의 Notion](https://organic-twister-8a3.notion.site/090e3b21bcc34579b7f3f4a3f36e08d8)
+
  
 </p>
 <br/><br/>
