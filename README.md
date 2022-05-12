@@ -34,11 +34,11 @@
 
 **Spring Backend Developer를 목표로 꾸준히 공부중에 있습니다.**
 
-- React, SpringBoot를 이용한 풀스택 개발이 가능합니다.
+- React, SpringBoot를 이용한 풀스택 개발 경험이 있습니다.
 - SpringBoot JPA를 이용한 REST API 개발 경험이 있습니다.
 - AWS, GCP와 같은 클라우드 서비스를 이용한 공모전 출품 경험이 있습니다.
 - 전주시 공공데이터 앱 공모전 우수상 수상 경력이 있습니다.
-- EC2, Docker를 이용하여 배포 경험이 있습니다.
+- AWS EC2, Docker를 이용하여 배포 경험이 있습니다.
 
 ## 🛠️ 기술 스택
 
