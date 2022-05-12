@@ -72,6 +72,7 @@
 🔹  Coding Specialist 2급 Intermediate Scratch / YBMIT
 
 <br/>
+
 ## 👨🏻‍🎓 Education 학력
 
 ### 🔹2016~2021 성결대학교 컴퓨터공학과
@@ -81,13 +82,14 @@
  **2016 컴퓨터 공학부 1학년 과대표 , 2021 컴퓨터 공학부 4학년 과대표**
 
  **2020 컴퓨터 공학부 축구 소모임 C# 동아리 회장**
+ 
 <br/>
+
 ## GitHub
 
 + beombeom1119 Github
 <br/>
 ![Beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=beombeom1119) <br/> 
-
 
 
 
@@ -98,7 +100,10 @@
 <img src="https://play-lh.googleusercontent.com/rjzg8U6-ZExZDYCNHV8or_afFelgo4bYTswwHq236xN3H3P8djFpfDcseI4AYx1UIA=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="전주 라이프 업" align="center"></img>
 </p>
 
- <br/>
+
+<br/>
+
+
 
 ### 🔗Link
 
