@@ -56,6 +56,7 @@
 
 ### 🔸 Jira
 
+
 ## 💡 자격 정보
 
 ### 🔹 정보처리기사
@@ -66,6 +67,7 @@
 🔹  Professional Coding Specialist 2급 python / YBMIT
 
 🔹  Coding Specialist 2급 Intermediate Scratch / YBMIT
+
 
 ## 👨🏻‍🎓 Education 학력
 
@@ -81,30 +83,7 @@
 
 ![Beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=beombeom1119) <br/> 
 
-
-## Education
-
-* 2016~2021 성결대학교 컴퓨터공학과
- ###### ㅤㅤㅤ- 총 평점 평균 : 3.97 , 전공 평점 평균 : 4.15
- ###### ㅤㅤㅤ- 2016 컴퓨터 공학부 1학년 과대표 ,  2021 컴퓨터 공학부 4학년 과대표
- ###### ㅤㅤㅤ- 2020 컴퓨터 공학부 축구 소모임 C# 동아리 회장
- <br/>
-
-
- 
- 
-
-* 2013~2015 인천 송천고등학교 <br/><br/>
-
-
-## Certificate
-
-* 정보처리기사 / 한국산업인력공단
-
-* professional Coding Specialist 2급 python / YBMIT
-
-* Coding Specialist 2급 Intermediate Scratch / YBMIT <br/><br/>
-
++
 ## Project, Prize
 
 ### **전주 라이프 업 (전주시 공공데이터 공모전 우수상 수상)**</br></br>
