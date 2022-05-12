@@ -24,7 +24,7 @@
 
  
 </p>
-<br/><br/>
+<br/>
 
 ## 🖥 **Backend Developer**
 
@@ -39,6 +39,7 @@
 - AWS, GCP와 같은 클라우드 서비스를 이용한 공모전 출품 경험이 있습니다.
 - 전주시 공공데이터 앱 공모전 우수상 수상 경력이 있습니다.
 - AWS EC2, Docker를 이용하여 배포 경험이 있습니다.
+
 <br/>
 
 ## 🛠️ 기술 스택
@@ -58,6 +59,7 @@
 ### 🔸 Jira
 
 <br/>
+
 ## 💡 자격 정보
 
 ### 🔹 정보처리기사
@@ -96,7 +98,7 @@
 <img src="https://play-lh.googleusercontent.com/rjzg8U6-ZExZDYCNHV8or_afFelgo4bYTswwHq236xN3H3P8djFpfDcseI4AYx1UIA=w240-h480-rw" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="전주 라이프 업" align="center"></img>
 </p>
 
-<br/>
+ <br/>
 
 ### 🔗Link
 
