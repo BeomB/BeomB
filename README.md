@@ -1,7 +1,7 @@
 
 
 ## INTRODUCE 
-### 💡  오기와 끈기로 개발하자.
+### 💡 계속 커밋 푸시 하기
 
 <p align="center" style="..."> 
 <img src="https://github.com/beombeom1119/beombeom1119/blob/main/BEOM_IMG/me.jpg?raw=true" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="이범기(나)" align="center"></img>
@@ -39,6 +39,8 @@
 - AWS, GCP와 같은 클라우드 서비스를 이용한 공모전 출품 경험이 있습니다.
 - 전주시 공공데이터 앱 공모전 우수상 수상 경력이 있습니다.
 - AWS EC2, Docker를 이용하여 배포 경험이 있습니다.
+- 성결대학교 졸업작품 네미게이션 프로젝트 특허 출원 경험이 있습니다.
+
 
 <br/>
 
