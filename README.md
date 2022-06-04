@@ -4,6 +4,8 @@
 ### 💡 계속 커밋 푸시 하기
 
 
+
+
 📧 **Email**
 
 - qjarl1119@naver.com
@@ -81,7 +83,7 @@
 
  **2016 컴퓨터 공학부 1학년 과대표 , 2021 컴퓨터 공학부 4학년 과대표**
 
- **2020 컴퓨터 공학부 축구 소모임 C# 동아리 회장**
+ **2020 성결대학교 컴퓨터 공학부 축구 소모임 C# 동아리 회장**
  
 <br/>
 
@@ -202,7 +204,7 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 <hr/>
 
 
-### **내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위)**</br></br>
+### **내미게이션 (2021 성결대학교 컴퓨터공학과 졸업작품 3위), 특허 출원 **</br></br>
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQtvxE%2FbtrjddApyd6%2FeIKmKh69XvpbniCQs08gLK%2Fimg.png" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="내미게이션" align="center"></img>
 
