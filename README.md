@@ -28,9 +28,8 @@
 
 ## 🖥 **Backend Developer**
 
- **안녕하세요!  Java/Spring Backend Developer가 되고 싶은 이범기입니다!**
 
-**Java/Spring 을 이용하여 사용자에게 Open API 를 제공하고 싶은 목표가 있는 신입 개발자입니다.**
+**Java/Spring 을 이용하여 사용자에게 Open API 를 제공하고 싶은 목표가 있는 개발자입니다.**
 
 **Spring Backend Developer를 목표로 꾸준히 공부중에 있습니다.**
 
