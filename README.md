@@ -1,11 +1,6 @@
 
 
-## INTRODUCE 
-### 💡 계속 커밋 푸시 하기  
-    
-      
-
-
+        
 📧 **Email**
 
 - qjarl1119@naver.com
@@ -17,11 +12,6 @@
 ✏️ **Blog**
 
 - [https://baam-ki.tistory.com](https://baam-ki.tistory.com/)
-
-🧑🏻‍💻 **Notion**
-
-- [이범기의 Notion](https://organic-twister-8a3.notion.site/090e3b21bcc34579b7f3f4a3f36e08d8)
-
  
 </p>
 <br/>
@@ -426,5 +416,4 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 </p>
 <br/>
 
-![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/beombeom1119](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/beombeom1119)
 
