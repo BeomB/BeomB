@@ -389,7 +389,7 @@ REST API (GET,POST,PUT,DELETE 메소드를 이용했습니다.)
 
 ## 🛠️ 사용 기술 및 라이브러리
 
-- Spring Boot, Java, Maria DB
+- Spring Boot, Java, Maria DB, 타임리프
 - Bootstrap, AWS EC2, Git
 
 ## 💡 깨달은 점
